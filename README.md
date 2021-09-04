@@ -1,4 +1,7 @@
 # IntelliCampus
+Project timeline : Jun-2017 - Aug 2017. 
+Venue : 1st Chhatra vishwakarma award, AICTE New Delhi.
+
 Since education is a powerful instrument of social change and human progress, it is also a powerful tool to cultivate values in an individual. Therefore all the educational institutes have greater responsibility to impart learning and cultivating values through education. To have this impactful change we need to have smart Educational Institutes. Our Nation is currently going through a “Digital Revolution” and this revolution must be brought in the institutions.   
            Today many of our Educational Institutes face the problems such as inadequate resources to get the quality education, less eco-friendly, improper library facilities, lack of distance education for the remote areas, lack of education for students with special needs and poor counseling for students to handle academic pressure.
     To overcome all this hindrance that becomes the hurdle in the way of our institutions to adapt to this era of digitization, we have implemented some economical and feasible solutions that will help to provide equal education and more opportunities to upcoming youth.
@@ -74,9 +77,9 @@ Link: [https://www.youtube.com/watch?v=gqiR5ibbYfI](https://www.youtube.com/watc
 
 ## Authors
 
+* **Raj Patel** - [Raj-7799](https://github.com/Raj-7799)
 * **Mandar Mhapsekar**-[mandar10](https://github.com/mandar10)
 * **Prathmesh Mhapsekar**-[prathmesh36](https://github.com/prathmesh36 )
-* **Raj Patel**
 * **Aniket Mhatre**-[aniketm07](https://github.com/aniketm07)
 
 ## License
