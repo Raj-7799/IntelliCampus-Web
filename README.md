@@ -1,6 +1,6 @@
 # IntelliCampus
-Project timeline : Jun-2017 - Aug 2017. 
-Venue : 1st Chhatra vishwakarma award, AICTE New Delhi.
+## Project timeline : Jun-2017 - Aug 2017. 
+## Venue : 1st Chhatra vishwakarma award, AICTE New Delhi.
 
 Since education is a powerful instrument of social change and human progress, it is also a powerful tool to cultivate values in an individual. Therefore all the educational institutes have greater responsibility to impart learning and cultivating values through education. To have this impactful change we need to have smart Educational Institutes. Our Nation is currently going through a “Digital Revolution” and this revolution must be brought in the institutions.   
            Today many of our Educational Institutes face the problems such as inadequate resources to get the quality education, less eco-friendly, improper library facilities, lack of distance education for the remote areas, lack of education for students with special needs and poor counseling for students to handle academic pressure.
